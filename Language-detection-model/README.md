@@ -20,7 +20,7 @@ The dataset consists of text samples from multiple languages, with labeled examp
 ## ⚙️ Installation & Setup  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/SAMUDRAGUPTA002/language-detection.git
+   git clone https://github.com/SAMUDRAGUPTA002/NLP_based_projects.git
    cd language-detection
    ```
 2. **Install dependencies**  
