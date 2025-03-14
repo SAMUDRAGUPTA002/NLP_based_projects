@@ -23,7 +23,7 @@ Each dataset consists of:
 # ⚙️ Installation & Setup  
 ### Clone the repository  
 ```bash
-git clone https://github.com/SAMUDRAGUPT002/NLP_based_projects.git  
+git clone https://github.com/SAMUDRAGUPTA002/NLP_based_projects.git
 cd sentiment-analysis  
 ```
 ### Install dependencies  
