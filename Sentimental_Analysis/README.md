@@ -53,6 +53,6 @@ Dataset
 
 You can use any text dataset for sentiment analysis. For example, the Amazon Fine Food Reviews dataset or Twitter data.
 
-Implementation
+License
 
-1. Sentiment Analysis with NLTK
+This project is open-source under the MIT License.
