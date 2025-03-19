@@ -44,7 +44,7 @@ This project implements two key **Natural Language Processing (NLP) models**:
 ## ⚙️ Installation & Setup  
 #### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/YourRepo/NLP-Models.git  
+git clone https://github.com/SAMUDRAGUPTA002/NLP_based_projects.git
 cd NLP-Models  
 ```
 #### 2️⃣ Install dependencies  
